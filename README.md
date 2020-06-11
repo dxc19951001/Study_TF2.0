@@ -2,7 +2,7 @@
 
 该学习笔记整理自mooc网课程——人工智能实践：Tensorflow笔记
 
-moc链接：https://www.icourse163.org/course/PKU-1002536002
+mooc链接：https://www.icourse163.org/course/PKU-1002536002
 
 B站视频链接：https://www.bilibili.com/video/BV1B7411L7Qt
 
